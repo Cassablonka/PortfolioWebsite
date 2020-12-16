@@ -95,14 +95,14 @@ section {
 .home {
   text-align: center;
   background-color: #83c5be;
-  padding: 6%;
+  padding: 7%;
 }
 
 .intro img {
   width: 25%;
   height: 30%;
   border-radius: 48%;
-  margin: 7.5% auto 1.5% auto;
+  margin: 7% auto 1.5% auto;
   border: 8px solid #bee3db;
 }
 
